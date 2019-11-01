@@ -16,7 +16,7 @@ and is a practise program for the final project of the class_
 > 1. Uses the application server Tomcat
 > 2. Uses the database server pgAdmin
 > 3. It is a dynamic web project
-> 4.Includes the sql code for the Entity-Relationship Model, which describes the Database
+> 4. Includes the sql code for the Entity-Relationship Model, which describes the Database
 > 5. A class package with all servlets
 > 5. Uses dynamic html pages through servlet
 
